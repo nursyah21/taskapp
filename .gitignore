@@ -1,4 +1,4 @@
-android/
-ios/
-node_modules/
+.expo
+android
+ios
 node_modules
